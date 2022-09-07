@@ -1,5 +1,6 @@
 name: widgetbook
-description: A flutter storybook that helps professionals and teams to catalogue their widgets.
+description: A flutter storybook that helps professionals and teams to catalogue
+  their widgets.
 version: 2.4.1
 homepage: https://www.widgetbook.io?utm_source=youtube&utm_medium=link&utm_campaign=widgetbook
 repository: https://github.com/widgetbook/widgetbook
@@ -16,7 +17,7 @@ dependencies:
   flutter:
     sdk: flutter
   freezed_annotation: ^2.0.3
-  go_router: ^3.0.5
+  go_router: ^4.3.0
   provider: ^6.0.2
   widgetbook_models: ^0.0.7
 
@@ -48,4 +49,3 @@ flutter:
         - asset: google_fonts/Nunito-Regular.ttf
         - asset: google_fonts/Nunito-SemiBold.ttf
         - asset: google_fonts/Nunito-SemiBoldItalic.ttf
-

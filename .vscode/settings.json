@@ -3,5 +3,6 @@
     "conventionalCommits.scopes": [
         "widgetbook",
         "cli"
-    ]
+    ],
+    "dart.runPubGetOnPubspecChanges": false
 }
